@@ -1,8 +1,8 @@
-### Hello World :robot:
+<h2 align="left"> Hello World :robot:</h2>
 <h3 align="left"></h3>
-<h2 align="left">I am a Software Engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h2>
+<h3 align="left">I am a Software Engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/awiswasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awiswasi/" height="30" width="35" /></a>
