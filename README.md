@@ -1,6 +1,6 @@
-<h2 align="left"> Hello World :robot:</h2>
+<h2 align="left"> Hello World! :robot:</h2>
 <h3 align="left"></h3>
-<h3 align="left">I am a Software Engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h3>
+<h3 align="left">I am a software engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
