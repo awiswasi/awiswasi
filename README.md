@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
