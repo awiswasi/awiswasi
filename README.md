@@ -1,6 +1,6 @@
 ### Hello World :robot:
 <h3 align="left"></h3>
-# I am a Software Engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!
+<h2 align="left">I am a Software Engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
