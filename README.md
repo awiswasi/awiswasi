@@ -1,3 +1,8 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awiswasi&theme=github_dark)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awiswasi&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awiswasi&theme=github_dark)
+
 <h2 align="left"> Hello World! :robot:</h2>
 <h3 align="left"></h3>
 <h3 align="left">I am a software engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h3>
