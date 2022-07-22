@@ -17,4 +17,4 @@
 </p>
 <h3 align="left"></h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C)](https://github.com/ryo-ma/github-profile-trophy)
