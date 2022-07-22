@@ -19,4 +19,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=awiswasi&show_icons=true&theme=dark&hide=stars,commits,prs,issues,contribs)
+![My Stats](https://github-readme-stats.vercel.app/api?username=awiswasi&show_icons=true&theme=dark&hide=commits,prs,contribs)
