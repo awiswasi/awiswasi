@@ -16,4 +16,4 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awiswasi&theme=github_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awiswasi&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
