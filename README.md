@@ -11,7 +11,7 @@
 </p>
 <h3 align="left"></h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awiswasi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awiswasi&theme=github_dimmed)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awiswasi&theme=github_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awiswasi&theme=github_dark)
