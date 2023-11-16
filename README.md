@@ -1,6 +1,6 @@
 <h2 align="left"> Hello World!</h2>
 <h3 align="left"></h3>
-<h4 align="left">I am a software and embedded engineer based in Orange County. I am passionate about aerospace, robotics, and my dream is to write code that will go into orbit one day!</h4>
+<h4 align="left">I am a software engineer based in Orange County, CA</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
