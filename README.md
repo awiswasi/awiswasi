@@ -1,19 +1,8 @@
 <h2 align="left"> Hello World!</h2>
-<h3 align="left"></h3>
-<h4 align="left">I am a software engineer based in Orange County, CA</h4>
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-    <a href="https://www.linkedin.com/in/awiswasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awiswasi/" height="30" width="35" /></a>
-  <a href="https://wiswasi.itch.io/" target="blank"><img align="center" src="https://bevyengine.org/assets/itchio-textless.svg" alt="https://wiswasi.itch.io/" height="30" width="35" /></a>
-  <a href="https://wiswasi.wixsite.com/portfolio" target="blank"><img align="center" src="https://www.pngrepo.com/png/209590/180/portfolio.png" alt="https://wiswasi.wixsite.com/portfolio" height="35" width="35" /></a>
+<h4 align="left">Lots of experience in Automotive Development, AUOTSAR, Embedded Software. Love challenges and finding creative solutions to difficult problems!</h4>
+<h4 align="left">I’ve developed various applications for vehicle infotainment systems, data collection and analysis on the edge, and driver scoring algorithms.</h4>
 
 </p>
 <h3 align="left"></h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awiswasi&theme=transparent)
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awiswasi&theme=transparent)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awiswasi&theme=transparent)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=awiswasi&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
